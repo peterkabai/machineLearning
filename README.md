@@ -1,2 +1,2 @@
-# dataScience
-Some of my personal data science projects
+# tensorFlow
+Some of my personal TensorFlow projects
