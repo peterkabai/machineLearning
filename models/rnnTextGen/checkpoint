@@ -1,2 +1,0 @@
-model_checkpoint_path: "rnnTextGen.ckpt"
-all_model_checkpoint_paths: "rnnTextGen.ckpt"
