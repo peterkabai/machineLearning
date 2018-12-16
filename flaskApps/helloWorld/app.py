@@ -1,4 +1,4 @@
-# run with cmmand: FLASK_APP=app.py flask run
+# run with command: FLASK_APP=app.py flask run
 
 from flask import Flask, request, render_template
 
