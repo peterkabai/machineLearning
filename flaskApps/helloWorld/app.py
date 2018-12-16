@@ -12,5 +12,5 @@ def on_load():
 @app.route('/', methods=['POST'])
 def after_post():
     text = request.form['text']
-    html = render_template('template.html', name=text)
+    html = render_template('form.html', name=text)
     return html
